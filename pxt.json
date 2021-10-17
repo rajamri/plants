@@ -1,10 +1,11 @@
 {
-    "name": "plants",
+    "name": "Plants",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "servo": "*"
     },
     "files": [
         "main.blocks",
